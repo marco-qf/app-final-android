@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "515037303362",
+    "project_id": "evaluacionandroid-714a9",
+    "storage_bucket": "evaluacionandroid-714a9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515037303362:android:e84499a0da806e21e2d3db",
+        "android_client_info": {
+          "package_name": "com.stomas.appfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAz7V8QzvGyan8mxGEeBBFVrGpFbjZH4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
